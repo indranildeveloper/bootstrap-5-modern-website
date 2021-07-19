@@ -1,0 +1,14 @@
+{
+  "name": "net-ninja-pro",
+  "version": "1.0.0",
+  "description": "Bootstap 5 website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Indranil Halder",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  }
+}
